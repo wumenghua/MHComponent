@@ -1,0 +1,16 @@
+PODS:
+  - MHComponent (0.1.0)
+
+DEPENDENCIES:
+  - MHComponent (from `../`)
+
+EXTERNAL SOURCES:
+  MHComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MHComponent: cb6ccf3490369cda01293dd13c41ddb3001290d5
+
+PODFILE CHECKSUM: e713e2e48e3a9a6d3b75d0e21387c1114b2335f0
+
+COCOAPODS: 1.9.1
